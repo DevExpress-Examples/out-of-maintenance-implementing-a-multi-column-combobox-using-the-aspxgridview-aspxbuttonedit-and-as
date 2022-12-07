@@ -1,4 +1,4 @@
-﻿Imports DevExpress.Web.ASPxGridView
+﻿Imports DevExpress.Web
 Imports System
 
 Partial Public Class _Default
